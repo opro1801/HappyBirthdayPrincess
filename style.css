@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(57, 0, 83);
+}
+.back{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background: url(bg2.jpg);
+    background-size: cover;
+    z-index: -100;
+}
+.area{
+    font-size: 135px;
+    font-weight: bold;
+}
+.one{
+    font-family: 'Lucida Handwriting';
+    padding-left: 2%;
+
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 200px;
+    padding-right: 45%;
+    text-align: right;
+}
+.det{
+    font-size: 16px;
+    letter-spacing: 2px;
+    margin-bottom: 150px;
+    padding: 10%;
+}
+.imgarea{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 150px;
+}
+.img{
+    width: 50%;
+    margin-top: 80px;
+}
+img{
+    width: 100%;
+}
+.right{
+    margin-left: 50%;
+}
