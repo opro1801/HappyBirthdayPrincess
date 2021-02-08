@@ -21,12 +21,13 @@
 .one{
     font-family: 'Lucida Handwriting';
     padding-left: 2%;
+    font-size: auto;
 
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
-    font-size: 200px;
+    font-size: auto;
     padding-right: 45%;
     text-align: right;
 }
