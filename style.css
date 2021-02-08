@@ -9,7 +9,7 @@
     height: 100vh;
     position: fixed;
     background: url(bg2.jpg);
-    background-repeat: repeat-x;
+    background-repeat: repeat-y;
     background-size: cover;
     z-index: -100;
 }
