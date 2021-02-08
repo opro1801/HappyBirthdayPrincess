@@ -11,7 +11,7 @@
     background: url(bg2.jpg);
     background-attachment: fixed;
     background-repeat: repeat-y;
-    background-size: cover;
+    background-size: 100vw;
     z-index: -100;
 }
 .area{
@@ -21,13 +21,13 @@
 .one{
     font-family: 'Lucida Handwriting';
     padding-left: 2%;
-    font-size: auto;
+    font-size: 8vw;
 
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
-    font-size: auto;
+    font-size: 7vw;
     padding-right: 45%;
     text-align: right;
 }
