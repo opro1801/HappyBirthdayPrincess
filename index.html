@@ -13,15 +13,19 @@
     </head>
 <body>
     <script language="JavaScript"> 
-        <!--hide
+        
         var password;
+        var name;
+        var name1="tranphuongthao"
         var pass1="12022000";
-        password=prompt('This is a small gift, please type in your birthday to view',' ');
-        if (password==pass1)
+        name=prompt('This is a small gift, please type in your name to view',' ');
+        password=prompt('And your birthday', ' ')
+        while (name!=name1 || password!=pass1)
         {
-        window.location="http://birthday-princess.com";
+            name=prompt('It seems like you made a mistake, please enter your name again',' ')
+            password=prompt('And your birthday', ' ');
         }
-        //-->
+        
     </script>
     <div class="back">
         <div class="area">
