@@ -19,9 +19,10 @@
 }
 .one{
     font-family: 'Lucida Handwriting';
-    padding-left: 2%;
-    padding-top: 3%;
-    font-size: 8vw;
+    font-style: italic;
+    font-size: 7vw;
+    padding-top: 10%;
+    text-align: center;
     
 }
 .name{
@@ -29,13 +30,12 @@
     font-style: italic;
     font-size: 7vw;
     padding-right: 45%;
-    text-align: right;
+    text-align: center;
 }
 .det{
     font-size: 1.25vw;
     letter-spacing: 0.75px;
-    padding: 8%;
-    margin-right: 28%;
+    padding: 10%;
 }
 .imgarea{
     background-image: url(bg3.jpg);
